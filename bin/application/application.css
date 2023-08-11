@@ -1,0 +1,10 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#entradaAMonedas:hover{
+	-fx-effect: dropshadow(three-pass-box, #00ff26, 20, 0, 0, 0);
+}
+
+#entradaATemperatura:hover {
+	-fx-effect: dropshadow(three-pass-box, #00ff26, 20, 0, 0, 0);
+}
+
