@@ -12,13 +12,18 @@ ConverTex es un proyecto de una aplicación de conversión de monedas y temperat
 
 ## Requisitos de Instalación
 
-1. Clona el repositorio a tu máquina local, utilizando gitbash en una carpeta creada o mismo en el escritorio. Haciendo esto se te creará una carpeta llamada "ConverTex".
+1. Descarga el archivo desde la seccion de "Code" o "Clona el repositorio a tu máquina local", utilizando gitbash en una carpeta creada o mismo en el escritorio. Haciendo esto se te creará una carpeta llamada "ConverTex".
+
+   ![descargar](https://github.com/Impah/ConverTex/assets/109989911/52ba94b3-903d-4455-9371-143be6917373)
+   
+   o
 
    ```bash
    git clone https://github.com/Impah/ConverTex
-2. Abre el proyecto en tu entorno de desarrollo favorito, como Eclipse o IntelliJ.
+   
+3. Abre el proyecto en tu entorno de desarrollo favorito, como Eclipse o IntelliJ.
 
-3. Ejecuta la aplicación y comienza a utilizarla.
+4. Ejecuta la aplicación y comienza a utilizarla.
 
 ## Cómo Utilizar la Aplicación
 
