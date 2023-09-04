@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=LhaGtnhYfDM&t=365s&ab_channel=MaterialUiJava
+
+https://apilayer.com/ //API PARA CONVERSOR DE MONEDAS A TIEMPO REAL
+
+https://anyapi.io/currency-exchange-api
+
+https://www.youtube.com/watch?v=Fc4uFeMXBS8&ab_channel=TodoCode guia interfaz todocode
+
+API QUE ESTOY USANDO : https://openexchangerates.org/account/app-ids
+
+APRENDER JAVAFX PARA COMBINAR MI APLICACION CON NUEVA INTERFAZ GRAFICA: https://www.youtube.com/watch?v=lP5XQk5LtPs&t=173s&ab_channel=TecnoExtremo
+
+INFO JAVA FX
+https://www.javatpoint.com/first-javafx-application
+https://www.tutorialspoint.com/javafx/javafx_application
+
+enlazar scene builder con javafx
+https://www.youtube.com/watch?v=KGtTbCMfilE&ab_channel=TecnoExtremo
+
+aprender a usar layouts javafx
+https://www.youtube.com/watch?v=JS7DArgtcn4&ab_channel=TecnoExtremo
